@@ -71,4 +71,10 @@
   padding:10px;
   
 }
+.del {
+  margin:2px;
+}
+.buttons {
+  display:flex;
+}
 
