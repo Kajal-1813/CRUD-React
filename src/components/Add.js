@@ -36,7 +36,7 @@ function Add() {
                 )}
             </Popup>
            <div className="list">
-            <div>
+            <div className="note">
                 List of Notes
             </div>
             {
